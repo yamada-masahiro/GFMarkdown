@@ -3,6 +3,7 @@ Check the syntax of GitHub Flavored Markdown
 
 ## 1. 章名
 本文[^脚注]。
+[別文書](sub/something.md#something)へのリンク。
 
 [^脚注]: 脚注の本文。
 脚注の続き。
