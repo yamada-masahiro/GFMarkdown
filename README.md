@@ -18,7 +18,7 @@ Check the syntax of GitHub Flavored Markdown
 
 一方、『[論語](#論語)』には[^論語]、
 
-[^論語]: 脚注から[リンク](#ref:論語)を張る。
+[^論語]: 脚注から[リンク](#ref:論語)を張る。[別文書](sub/something.md#something)へのリンク。
 
 ## 参考文献
 ### こころ
